@@ -28,5 +28,4 @@ public class RDDmapExample {
             System.out.println(n);
         }
     }
-
 }
